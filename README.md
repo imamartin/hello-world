@@ -1,3 +1,3 @@
 # hello-world
-
-Shawn / 1/14/2020
+# Name: Shawn 
+# Date: 1/14/2020
